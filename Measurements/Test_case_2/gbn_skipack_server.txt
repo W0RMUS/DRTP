@@ -1,0 +1,167 @@
+Server is waiting for client connection...
+syn received: 8 and ack received: 0
+Server is waiting for client connection...
+ack for syn-ack received 4
+Server: Connection established with client
+Received and acknowledged packet 1
+Received and acknowledged packet 2
+Received and acknowledged packet 3
+Skipping ACK for packet 4
+Discarded out-of-order packet 5
+Discarded out-of-order packet 6
+Discarded out-of-order packet 7
+Discarded out-of-order packet 8
+retransmitted ack packet 4
+Received and acknowledged packet 4
+Received and acknowledged packet 5
+Received and acknowledged packet 6
+Received and acknowledged packet 7
+Skipping ACK for packet 8
+Discarded out-of-order packet 9
+Discarded out-of-order packet 10
+Discarded out-of-order packet 11
+Discarded out-of-order packet 12
+retransmitted ack packet 8
+Received and acknowledged packet 8
+Received and acknowledged packet 9
+Received and acknowledged packet 10
+Received and acknowledged packet 11
+Skipping ACK for packet 12
+Discarded out-of-order packet 13
+Discarded out-of-order packet 14
+Discarded out-of-order packet 15
+Discarded out-of-order packet 16
+retransmitted ack packet 12
+Received and acknowledged packet 12
+Received and acknowledged packet 13
+Received and acknowledged packet 14
+Received and acknowledged packet 15
+Skipping ACK for packet 16
+Discarded out-of-order packet 17
+Discarded out-of-order packet 18
+Discarded out-of-order packet 19
+Discarded out-of-order packet 20
+retransmitted ack packet 16
+Received and acknowledged packet 16
+Received and acknowledged packet 17
+Received and acknowledged packet 18
+Received and acknowledged packet 19
+Skipping ACK for packet 20
+Discarded out-of-order packet 21
+Discarded out-of-order packet 22
+Discarded out-of-order packet 23
+Discarded out-of-order packet 24
+retransmitted ack packet 20
+Received and acknowledged packet 20
+Received and acknowledged packet 21
+Received and acknowledged packet 22
+Received and acknowledged packet 23
+Skipping ACK for packet 24
+Discarded out-of-order packet 25
+Discarded out-of-order packet 26
+Discarded out-of-order packet 27
+Discarded out-of-order packet 28
+retransmitted ack packet 24
+Received and acknowledged packet 24
+Received and acknowledged packet 25
+Received and acknowledged packet 26
+Received and acknowledged packet 27
+Skipping ACK for packet 28
+Discarded out-of-order packet 29
+Discarded out-of-order packet 30
+Discarded out-of-order packet 31
+Discarded out-of-order packet 32
+retransmitted ack packet 28
+Received and acknowledged packet 28
+Received and acknowledged packet 29
+Received and acknowledged packet 30
+Received and acknowledged packet 31
+Skipping ACK for packet 32
+Discarded out-of-order packet 33
+Discarded out-of-order packet 34
+Discarded out-of-order packet 35
+Discarded out-of-order packet 36
+retransmitted ack packet 32
+Received and acknowledged packet 32
+Received and acknowledged packet 33
+Received and acknowledged packet 34
+Received and acknowledged packet 35
+Skipping ACK for packet 36
+Discarded out-of-order packet 37
+Discarded out-of-order packet 38
+Discarded out-of-order packet 39
+Discarded out-of-order packet 40
+retransmitted ack packet 36
+Received and acknowledged packet 36
+Received and acknowledged packet 37
+Received and acknowledged packet 38
+Received and acknowledged packet 39
+Skipping ACK for packet 40
+Discarded out-of-order packet 41
+Discarded out-of-order packet 42
+Discarded out-of-order packet 43
+Discarded out-of-order packet 44
+retransmitted ack packet 40
+Received and acknowledged packet 40
+Received and acknowledged packet 41
+Received and acknowledged packet 42
+Received and acknowledged packet 43
+Received and acknowledged packet 44
+Received and acknowledged packet 45
+Received and acknowledged packet 46
+Received and acknowledged packet 47
+Received and acknowledged packet 48
+Received and acknowledged packet 49
+Received and acknowledged packet 50
+Received and acknowledged packet 51
+Received and acknowledged packet 52
+Received and acknowledged packet 53
+Received and acknowledged packet 54
+Received and acknowledged packet 55
+Received and acknowledged packet 56
+Received and acknowledged packet 57
+Received and acknowledged packet 58
+Received and acknowledged packet 59
+Received and acknowledged packet 60
+Received and acknowledged packet 61
+Received and acknowledged packet 62
+Received and acknowledged packet 63
+Received and acknowledged packet 64
+Received and acknowledged packet 65
+Received and acknowledged packet 66
+Received and acknowledged packet 67
+Received and acknowledged packet 68
+Received and acknowledged packet 69
+Received and acknowledged packet 70
+Received and acknowledged packet 71
+Received and acknowledged packet 72
+Received and acknowledged packet 73
+Received and acknowledged packet 74
+Received and acknowledged packet 75
+Received and acknowledged packet 76
+Received and acknowledged packet 77
+Received and acknowledged packet 78
+Received and acknowledged packet 79
+Received and acknowledged packet 80
+Received and acknowledged packet 81
+Received and acknowledged packet 82
+Received and acknowledged packet 83
+Received and acknowledged packet 84
+Received and acknowledged packet 85
+Received and acknowledged packet 86
+Received and acknowledged packet 87
+Received and acknowledged packet 88
+Received and acknowledged packet 89
+Received and acknowledged packet 90
+Received and acknowledged packet 91
+Received and acknowledged packet 92
+Received and acknowledged packet 93
+Received and acknowledged packet 94
+Received and acknowledged packet 95
+Received and acknowledged packet 96
+Received and acknowledged packet 97
+Received and acknowledged the last packet 98
+File transfer complete
+Server: Waiting for FIN from the client
+Server: Received FIN from the client
+Server: Sent ACK for FIN

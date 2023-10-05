@@ -1,0 +1,323 @@
+Server is waiting for client connection...
+syn received: 8 and ack received: 0
+Server is waiting for client connection...
+ack for syn-ack received 4
+Server: Connection established with client
+Received packet with seq_num 1
+Writing packet with seq_num 1 to file
+Sending ACK for seq_num 1
+Received packet with seq_num 2
+Writing packet with seq_num 2 to file
+Sending ACK for seq_num 2
+Received packet with seq_num 3
+Writing packet with seq_num 3 to file
+Sending ACK for seq_num 3
+Received packet with seq_num 4
+Writing packet with seq_num 4 to file
+Sending ACK for seq_num 4
+Received packet with seq_num 5
+Skipped ack for packet 5
+Received packet with seq_num 6
+Sending ACK for seq_num 6
+Received packet with seq_num 7
+Sending ACK for seq_num 7
+Received packet with seq_num 8
+Sending ACK for seq_num 8
+Received packet with seq_num 9
+Sending ACK for seq_num 9
+Received packet with seq_num 5
+Writing packet with seq_num 5 to file
+Writing packet with seq_num 6 to file
+Writing packet with seq_num 7 to file
+Writing packet with seq_num 8 to file
+Writing packet with seq_num 9 to file
+Sending ACK for seq_num 5
+Received packet with seq_num 10
+Skipped ack for packet 10
+Received packet with seq_num 11
+Sending ACK for seq_num 11
+Received packet with seq_num 12
+Sending ACK for seq_num 12
+Received packet with seq_num 13
+Sending ACK for seq_num 13
+Received packet with seq_num 14
+Sending ACK for seq_num 14
+Received packet with seq_num 10
+Writing packet with seq_num 10 to file
+Writing packet with seq_num 11 to file
+Writing packet with seq_num 12 to file
+Writing packet with seq_num 13 to file
+Writing packet with seq_num 14 to file
+Sending ACK for seq_num 10
+Received packet with seq_num 15
+Skipped ack for packet 15
+Received packet with seq_num 16
+Sending ACK for seq_num 16
+Received packet with seq_num 17
+Sending ACK for seq_num 17
+Received packet with seq_num 18
+Sending ACK for seq_num 18
+Received packet with seq_num 19
+Sending ACK for seq_num 19
+Received packet with seq_num 15
+Writing packet with seq_num 15 to file
+Writing packet with seq_num 16 to file
+Writing packet with seq_num 17 to file
+Writing packet with seq_num 18 to file
+Writing packet with seq_num 19 to file
+Sending ACK for seq_num 15
+Received packet with seq_num 20
+Skipped ack for packet 20
+Received packet with seq_num 21
+Sending ACK for seq_num 21
+Received packet with seq_num 22
+Sending ACK for seq_num 22
+Received packet with seq_num 23
+Sending ACK for seq_num 23
+Received packet with seq_num 24
+Sending ACK for seq_num 24
+Received packet with seq_num 20
+Writing packet with seq_num 20 to file
+Writing packet with seq_num 21 to file
+Writing packet with seq_num 22 to file
+Writing packet with seq_num 23 to file
+Writing packet with seq_num 24 to file
+Sending ACK for seq_num 20
+Received packet with seq_num 25
+Skipped ack for packet 25
+Received packet with seq_num 26
+Sending ACK for seq_num 26
+Received packet with seq_num 27
+Sending ACK for seq_num 27
+Received packet with seq_num 28
+Sending ACK for seq_num 28
+Received packet with seq_num 29
+Sending ACK for seq_num 29
+Received packet with seq_num 25
+Writing packet with seq_num 25 to file
+Writing packet with seq_num 26 to file
+Writing packet with seq_num 27 to file
+Writing packet with seq_num 28 to file
+Writing packet with seq_num 29 to file
+Sending ACK for seq_num 25
+Received packet with seq_num 30
+Skipped ack for packet 30
+Received packet with seq_num 31
+Sending ACK for seq_num 31
+Received packet with seq_num 32
+Sending ACK for seq_num 32
+Received packet with seq_num 33
+Sending ACK for seq_num 33
+Received packet with seq_num 34
+Sending ACK for seq_num 34
+Received packet with seq_num 30
+Writing packet with seq_num 30 to file
+Writing packet with seq_num 31 to file
+Writing packet with seq_num 32 to file
+Writing packet with seq_num 33 to file
+Writing packet with seq_num 34 to file
+Sending ACK for seq_num 30
+Received packet with seq_num 35
+Skipped ack for packet 35
+Received packet with seq_num 36
+Sending ACK for seq_num 36
+Received packet with seq_num 37
+Sending ACK for seq_num 37
+Received packet with seq_num 38
+Sending ACK for seq_num 38
+Received packet with seq_num 39
+Sending ACK for seq_num 39
+Received packet with seq_num 35
+Writing packet with seq_num 35 to file
+Writing packet with seq_num 36 to file
+Writing packet with seq_num 37 to file
+Writing packet with seq_num 38 to file
+Writing packet with seq_num 39 to file
+Sending ACK for seq_num 35
+Received packet with seq_num 40
+Skipped ack for packet 40
+Received packet with seq_num 41
+Sending ACK for seq_num 41
+Received packet with seq_num 42
+Sending ACK for seq_num 42
+Received packet with seq_num 43
+Sending ACK for seq_num 43
+Received packet with seq_num 44
+Sending ACK for seq_num 44
+Received packet with seq_num 40
+Writing packet with seq_num 40 to file
+Writing packet with seq_num 41 to file
+Writing packet with seq_num 42 to file
+Writing packet with seq_num 43 to file
+Writing packet with seq_num 44 to file
+Sending ACK for seq_num 40
+Received packet with seq_num 45
+Skipped ack for packet 45
+Received packet with seq_num 46
+Sending ACK for seq_num 46
+Received packet with seq_num 47
+Sending ACK for seq_num 47
+Received packet with seq_num 48
+Sending ACK for seq_num 48
+Received packet with seq_num 49
+Sending ACK for seq_num 49
+Received packet with seq_num 45
+Writing packet with seq_num 45 to file
+Writing packet with seq_num 46 to file
+Writing packet with seq_num 47 to file
+Writing packet with seq_num 48 to file
+Writing packet with seq_num 49 to file
+Sending ACK for seq_num 45
+Received packet with seq_num 50
+Skipped ack for packet 50
+Received packet with seq_num 51
+Sending ACK for seq_num 51
+Received packet with seq_num 52
+Sending ACK for seq_num 52
+Received packet with seq_num 53
+Sending ACK for seq_num 53
+Received packet with seq_num 54
+Sending ACK for seq_num 54
+Received packet with seq_num 50
+Writing packet with seq_num 50 to file
+Writing packet with seq_num 51 to file
+Writing packet with seq_num 52 to file
+Writing packet with seq_num 53 to file
+Writing packet with seq_num 54 to file
+Sending ACK for seq_num 50
+Received packet with seq_num 55
+Writing packet with seq_num 55 to file
+Sending ACK for seq_num 55
+Received packet with seq_num 56
+Writing packet with seq_num 56 to file
+Sending ACK for seq_num 56
+Received packet with seq_num 57
+Writing packet with seq_num 57 to file
+Sending ACK for seq_num 57
+Received packet with seq_num 58
+Writing packet with seq_num 58 to file
+Sending ACK for seq_num 58
+Received packet with seq_num 59
+Writing packet with seq_num 59 to file
+Sending ACK for seq_num 59
+Received packet with seq_num 60
+Writing packet with seq_num 60 to file
+Sending ACK for seq_num 60
+Received packet with seq_num 61
+Writing packet with seq_num 61 to file
+Sending ACK for seq_num 61
+Received packet with seq_num 62
+Writing packet with seq_num 62 to file
+Sending ACK for seq_num 62
+Received packet with seq_num 63
+Writing packet with seq_num 63 to file
+Sending ACK for seq_num 63
+Received packet with seq_num 64
+Writing packet with seq_num 64 to file
+Sending ACK for seq_num 64
+Received packet with seq_num 65
+Writing packet with seq_num 65 to file
+Sending ACK for seq_num 65
+Received packet with seq_num 66
+Writing packet with seq_num 66 to file
+Sending ACK for seq_num 66
+Received packet with seq_num 67
+Writing packet with seq_num 67 to file
+Sending ACK for seq_num 67
+Received packet with seq_num 68
+Writing packet with seq_num 68 to file
+Sending ACK for seq_num 68
+Received packet with seq_num 69
+Writing packet with seq_num 69 to file
+Sending ACK for seq_num 69
+Received packet with seq_num 70
+Writing packet with seq_num 70 to file
+Sending ACK for seq_num 70
+Received packet with seq_num 71
+Writing packet with seq_num 71 to file
+Sending ACK for seq_num 71
+Received packet with seq_num 72
+Writing packet with seq_num 72 to file
+Sending ACK for seq_num 72
+Received packet with seq_num 73
+Writing packet with seq_num 73 to file
+Sending ACK for seq_num 73
+Received packet with seq_num 74
+Writing packet with seq_num 74 to file
+Sending ACK for seq_num 74
+Received packet with seq_num 75
+Writing packet with seq_num 75 to file
+Sending ACK for seq_num 75
+Received packet with seq_num 76
+Writing packet with seq_num 76 to file
+Sending ACK for seq_num 76
+Received packet with seq_num 77
+Writing packet with seq_num 77 to file
+Sending ACK for seq_num 77
+Received packet with seq_num 78
+Writing packet with seq_num 78 to file
+Sending ACK for seq_num 78
+Received packet with seq_num 79
+Writing packet with seq_num 79 to file
+Sending ACK for seq_num 79
+Received packet with seq_num 80
+Writing packet with seq_num 80 to file
+Sending ACK for seq_num 80
+Received packet with seq_num 81
+Writing packet with seq_num 81 to file
+Sending ACK for seq_num 81
+Received packet with seq_num 82
+Writing packet with seq_num 82 to file
+Sending ACK for seq_num 82
+Received packet with seq_num 83
+Writing packet with seq_num 83 to file
+Sending ACK for seq_num 83
+Received packet with seq_num 84
+Writing packet with seq_num 84 to file
+Sending ACK for seq_num 84
+Received packet with seq_num 85
+Writing packet with seq_num 85 to file
+Sending ACK for seq_num 85
+Received packet with seq_num 86
+Writing packet with seq_num 86 to file
+Sending ACK for seq_num 86
+Received packet with seq_num 87
+Writing packet with seq_num 87 to file
+Sending ACK for seq_num 87
+Received packet with seq_num 88
+Writing packet with seq_num 88 to file
+Sending ACK for seq_num 88
+Received packet with seq_num 89
+Writing packet with seq_num 89 to file
+Sending ACK for seq_num 89
+Received packet with seq_num 90
+Writing packet with seq_num 90 to file
+Sending ACK for seq_num 90
+Received packet with seq_num 91
+Writing packet with seq_num 91 to file
+Sending ACK for seq_num 91
+Received packet with seq_num 92
+Writing packet with seq_num 92 to file
+Sending ACK for seq_num 92
+Received packet with seq_num 93
+Writing packet with seq_num 93 to file
+Sending ACK for seq_num 93
+Received packet with seq_num 94
+Writing packet with seq_num 94 to file
+Sending ACK for seq_num 94
+Received packet with seq_num 95
+Writing packet with seq_num 95 to file
+Sending ACK for seq_num 95
+Received packet with seq_num 96
+Writing packet with seq_num 96 to file
+Sending ACK for seq_num 96
+Received packet with seq_num 97
+Writing packet with seq_num 97 to file
+Sending ACK for seq_num 97
+Received packet with seq_num 98
+Writing packet with seq_num 98 to file
+Sending ACK for seq_num 98
+FIN flag received, ending file transfer
+Server: Waiting for FIN from the client
+Server: Received FIN from the client
+Server: Sent ACK for FIN

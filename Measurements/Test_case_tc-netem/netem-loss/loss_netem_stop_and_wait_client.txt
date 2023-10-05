@@ -1,0 +1,465 @@
+Client: Connection established with server
+start stop
+98 packet size
+seq 1
+creating packet 1
+sending packet nr 1
+timeout occurs
+preparing to retransmit packet nr 1 
+sending packet nr 1
+ack received for packet 1
+seq 2
+creating packet 2
+sending packet nr 2
+ack received for packet 2
+seq 3
+creating packet 3
+sending packet nr 3
+ack received for packet 3
+seq 4
+creating packet 4
+sending packet nr 4
+timeout occurs
+preparing to retransmit packet nr 4 
+sending packet nr 4
+ack received for packet 4
+seq 5
+creating packet 5
+sending packet nr 5
+ack received for packet 5
+seq 6
+creating packet 6
+sending packet nr 6
+ack received for packet 6
+seq 7
+creating packet 7
+sending packet nr 7
+ack received for packet 7
+seq 8
+creating packet 8
+sending packet nr 8
+ack received for packet 8
+seq 9
+creating packet 9
+sending packet nr 9
+ack received for packet 9
+seq 10
+creating packet 10
+sending packet nr 10
+ack received for packet 10
+seq 11
+creating packet 11
+sending packet nr 11
+ack received for packet 11
+seq 12
+creating packet 12
+sending packet nr 12
+ack received for packet 12
+seq 13
+creating packet 13
+sending packet nr 13
+ack received for packet 13
+seq 14
+creating packet 14
+sending packet nr 14
+timeout occurs
+preparing to retransmit packet nr 14 
+sending packet nr 14
+ack received for packet 14
+seq 15
+creating packet 15
+sending packet nr 15
+ack received for packet 15
+seq 16
+creating packet 16
+sending packet nr 16
+ack received for packet 16
+seq 17
+creating packet 17
+sending packet nr 17
+timeout occurs
+preparing to retransmit packet nr 17 
+sending packet nr 17
+ack received for packet 17
+seq 18
+creating packet 18
+sending packet nr 18
+timeout occurs
+preparing to retransmit packet nr 18 
+sending packet nr 18
+ack received for packet 18
+seq 19
+creating packet 19
+sending packet nr 19
+ack received for packet 19
+seq 20
+creating packet 20
+sending packet nr 20
+ack received for packet 20
+seq 21
+creating packet 21
+sending packet nr 21
+ack received for packet 21
+seq 22
+creating packet 22
+sending packet nr 22
+ack received for packet 22
+seq 23
+creating packet 23
+sending packet nr 23
+timeout occurs
+preparing to retransmit packet nr 23 
+sending packet nr 23
+timeout occurs
+preparing to retransmit packet nr 23 
+sending packet nr 23
+ack received for packet 23
+seq 24
+creating packet 24
+sending packet nr 24
+ack received for packet 24
+seq 25
+creating packet 25
+sending packet nr 25
+ack received for packet 25
+seq 26
+creating packet 26
+sending packet nr 26
+ack received for packet 26
+seq 27
+creating packet 27
+sending packet nr 27
+timeout occurs
+preparing to retransmit packet nr 27 
+sending packet nr 27
+ack received for packet 27
+seq 28
+creating packet 28
+sending packet nr 28
+ack received for packet 28
+seq 29
+creating packet 29
+sending packet nr 29
+ack received for packet 29
+seq 30
+creating packet 30
+sending packet nr 30
+ack received for packet 30
+seq 31
+creating packet 31
+sending packet nr 31
+ack received for packet 31
+seq 32
+creating packet 32
+sending packet nr 32
+ack received for packet 32
+seq 33
+creating packet 33
+sending packet nr 33
+ack received for packet 33
+seq 34
+creating packet 34
+sending packet nr 34
+timeout occurs
+preparing to retransmit packet nr 34 
+sending packet nr 34
+ack received for packet 34
+seq 35
+creating packet 35
+sending packet nr 35
+ack received for packet 35
+seq 36
+creating packet 36
+sending packet nr 36
+timeout occurs
+preparing to retransmit packet nr 36 
+sending packet nr 36
+timeout occurs
+preparing to retransmit packet nr 36 
+sending packet nr 36
+timeout occurs
+preparing to retransmit packet nr 36 
+sending packet nr 36
+ack received for packet 36
+seq 37
+creating packet 37
+sending packet nr 37
+ack received for packet 37
+seq 38
+creating packet 38
+sending packet nr 38
+timeout occurs
+preparing to retransmit packet nr 38 
+sending packet nr 38
+timeout occurs
+preparing to retransmit packet nr 38 
+sending packet nr 38
+ack received for packet 38
+seq 39
+creating packet 39
+sending packet nr 39
+ack received for packet 39
+seq 40
+creating packet 40
+sending packet nr 40
+ack received for packet 40
+seq 41
+creating packet 41
+sending packet nr 41
+ack received for packet 41
+seq 42
+creating packet 42
+sending packet nr 42
+ack received for packet 42
+seq 43
+creating packet 43
+sending packet nr 43
+ack received for packet 43
+seq 44
+creating packet 44
+sending packet nr 44
+ack received for packet 44
+seq 45
+creating packet 45
+sending packet nr 45
+ack received for packet 45
+seq 46
+creating packet 46
+sending packet nr 46
+ack received for packet 46
+seq 47
+creating packet 47
+sending packet nr 47
+ack received for packet 47
+seq 48
+creating packet 48
+sending packet nr 48
+ack received for packet 48
+seq 49
+creating packet 49
+sending packet nr 49
+ack received for packet 49
+seq 50
+creating packet 50
+sending packet nr 50
+ack received for packet 50
+seq 51
+creating packet 51
+sending packet nr 51
+ack received for packet 51
+seq 52
+creating packet 52
+sending packet nr 52
+ack received for packet 52
+seq 53
+creating packet 53
+sending packet nr 53
+ack received for packet 53
+seq 54
+creating packet 54
+sending packet nr 54
+ack received for packet 54
+seq 55
+creating packet 55
+sending packet nr 55
+ack received for packet 55
+seq 56
+creating packet 56
+sending packet nr 56
+ack received for packet 56
+seq 57
+creating packet 57
+sending packet nr 57
+timeout occurs
+preparing to retransmit packet nr 57 
+sending packet nr 57
+ack received for packet 57
+seq 58
+creating packet 58
+sending packet nr 58
+ack received for packet 58
+seq 59
+creating packet 59
+sending packet nr 59
+ack received for packet 59
+seq 60
+creating packet 60
+sending packet nr 60
+timeout occurs
+preparing to retransmit packet nr 60 
+sending packet nr 60
+ack received for packet 60
+seq 61
+creating packet 61
+sending packet nr 61
+ack received for packet 61
+seq 62
+creating packet 62
+sending packet nr 62
+ack received for packet 62
+seq 63
+creating packet 63
+sending packet nr 63
+ack received for packet 63
+seq 64
+creating packet 64
+sending packet nr 64
+ack received for packet 64
+seq 65
+creating packet 65
+sending packet nr 65
+ack received for packet 65
+seq 66
+creating packet 66
+sending packet nr 66
+ack received for packet 66
+seq 67
+creating packet 67
+sending packet nr 67
+ack received for packet 67
+seq 68
+creating packet 68
+sending packet nr 68
+ack received for packet 68
+seq 69
+creating packet 69
+sending packet nr 69
+ack received for packet 69
+seq 70
+creating packet 70
+sending packet nr 70
+ack received for packet 70
+seq 71
+creating packet 71
+sending packet nr 71
+ack received for packet 71
+seq 72
+creating packet 72
+sending packet nr 72
+timeout occurs
+preparing to retransmit packet nr 72 
+sending packet nr 72
+ack received for packet 72
+seq 73
+creating packet 73
+sending packet nr 73
+ack received for packet 73
+seq 74
+creating packet 74
+sending packet nr 74
+ack received for packet 74
+seq 75
+creating packet 75
+sending packet nr 75
+ack received for packet 75
+seq 76
+creating packet 76
+sending packet nr 76
+timeout occurs
+preparing to retransmit packet nr 76 
+sending packet nr 76
+ack received for packet 76
+seq 77
+creating packet 77
+sending packet nr 77
+ack received for packet 77
+seq 78
+creating packet 78
+sending packet nr 78
+ack received for packet 78
+seq 79
+creating packet 79
+sending packet nr 79
+timeout occurs
+preparing to retransmit packet nr 79 
+sending packet nr 79
+ack received for packet 79
+seq 80
+creating packet 80
+sending packet nr 80
+ack received for packet 80
+seq 81
+creating packet 81
+sending packet nr 81
+ack received for packet 81
+seq 82
+creating packet 82
+sending packet nr 82
+ack received for packet 82
+seq 83
+creating packet 83
+sending packet nr 83
+timeout occurs
+preparing to retransmit packet nr 83 
+sending packet nr 83
+ack received for packet 83
+seq 84
+creating packet 84
+sending packet nr 84
+ack received for packet 84
+seq 85
+creating packet 85
+sending packet nr 85
+ack received for packet 85
+seq 86
+creating packet 86
+sending packet nr 86
+ack received for packet 86
+seq 87
+creating packet 87
+sending packet nr 87
+ack received for packet 87
+seq 88
+creating packet 88
+sending packet nr 88
+ack received for packet 88
+seq 89
+creating packet 89
+sending packet nr 89
+timeout occurs
+preparing to retransmit packet nr 89 
+sending packet nr 89
+ack received for packet 89
+seq 90
+creating packet 90
+sending packet nr 90
+ack received for packet 90
+seq 91
+creating packet 91
+sending packet nr 91
+ack received for packet 91
+seq 92
+creating packet 92
+sending packet nr 92
+ack received for packet 92
+seq 93
+creating packet 93
+sending packet nr 93
+ack received for packet 93
+seq 94
+creating packet 94
+sending packet nr 94
+ack received for packet 94
+seq 95
+creating packet 95
+sending packet nr 95
+ack received for packet 95
+seq 96
+creating packet 96
+sending packet nr 96
+ack received for packet 96
+seq 97
+creating packet 97
+sending packet nr 97
+ack received for packet 97
+seq 98
+creating last packet 98
+sending packet nr 98
+ack received for packet 98
+stop_and_wait finish
+total time transferred 12.295977115631104
+total bits transferred 1143096
+Throughput: 0.09 Mbps
+stop_and_wait
+Client: Sending FIN
+Client: Received ACK for FIN

@@ -1,0 +1,332 @@
+Client: Connection established with server
+start sr
+Created packet with sequence number: 1
+Created packet with sequence number: 2
+Created packet with sequence number: 3
+Created packet with sequence number: 4
+Created packet with sequence number: 5
+Created packet with sequence number: 6
+Created packet with sequence number: 7
+Created packet with sequence number: 8
+Created packet with sequence number: 9
+Created packet with sequence number: 10
+Created packet with sequence number: 11
+Created packet with sequence number: 12
+Created packet with sequence number: 13
+Created packet with sequence number: 14
+Created packet with sequence number: 15
+Created packet with sequence number: 16
+Created packet with sequence number: 17
+Created packet with sequence number: 18
+Created packet with sequence number: 19
+Created packet with sequence number: 20
+Created packet with sequence number: 21
+Created packet with sequence number: 22
+Created packet with sequence number: 23
+Created packet with sequence number: 24
+Created packet with sequence number: 25
+Created packet with sequence number: 26
+Created packet with sequence number: 27
+Created packet with sequence number: 28
+Created packet with sequence number: 29
+Created packet with sequence number: 30
+Created packet with sequence number: 31
+Created packet with sequence number: 32
+Created packet with sequence number: 33
+Created packet with sequence number: 34
+Created packet with sequence number: 35
+Created packet with sequence number: 36
+Created packet with sequence number: 37
+Created packet with sequence number: 38
+Created packet with sequence number: 39
+Created packet with sequence number: 40
+Created packet with sequence number: 41
+Created packet with sequence number: 42
+Created packet with sequence number: 43
+Created packet with sequence number: 44
+Created packet with sequence number: 45
+Created packet with sequence number: 46
+Created packet with sequence number: 47
+Created packet with sequence number: 48
+Created packet with sequence number: 49
+Created packet with sequence number: 50
+Created packet with sequence number: 51
+Created packet with sequence number: 52
+Created packet with sequence number: 53
+Created packet with sequence number: 54
+Created packet with sequence number: 55
+Created packet with sequence number: 56
+Created packet with sequence number: 57
+Created packet with sequence number: 58
+Created packet with sequence number: 59
+Created packet with sequence number: 60
+Created packet with sequence number: 61
+Created packet with sequence number: 62
+Created packet with sequence number: 63
+Created packet with sequence number: 64
+Created packet with sequence number: 65
+Created packet with sequence number: 66
+Created packet with sequence number: 67
+Created packet with sequence number: 68
+Created packet with sequence number: 69
+Created packet with sequence number: 70
+Created packet with sequence number: 71
+Created packet with sequence number: 72
+Created packet with sequence number: 73
+Created packet with sequence number: 74
+Created packet with sequence number: 75
+Created packet with sequence number: 76
+Created packet with sequence number: 77
+Created packet with sequence number: 78
+Created packet with sequence number: 79
+Created packet with sequence number: 80
+Created packet with sequence number: 81
+Created packet with sequence number: 82
+Created packet with sequence number: 83
+Created packet with sequence number: 84
+Created packet with sequence number: 85
+Created packet with sequence number: 86
+Created packet with sequence number: 87
+Created packet with sequence number: 88
+Created packet with sequence number: 89
+Created packet with sequence number: 90
+Created packet with sequence number: 91
+Created packet with sequence number: 92
+Created packet with sequence number: 93
+Created packet with sequence number: 94
+Created packet with sequence number: 95
+Created packet with sequence number: 96
+Created packet with sequence number: 97
+Created packet with sequence number: 98
+Sent packet with sequence number: 1
+Sent packet with sequence number: 2
+Sent packet with sequence number: 3
+Sent packet with sequence number: 4
+Sent packet with sequence number: 5
+Received ACK for packet with sequence number: 2
+Received ACK for packet with sequence number: 3
+Received ACK for packet with sequence number: 4
+Received ACK for packet with sequence number: 5
+Timeout occurred
+Retransmitting packet with sequence number: 1
+Received ACK for packet with sequence number: 1
+Sent packet with sequence number: 6
+Sent packet with sequence number: 7
+Sent packet with sequence number: 8
+Sent packet with sequence number: 9
+Sent packet with sequence number: 10
+Received ACK for packet with sequence number: 6
+Sent packet with sequence number: 11
+Received ACK for packet with sequence number: 7
+Sent packet with sequence number: 12
+Received ACK for packet with sequence number: 8
+Sent packet with sequence number: 13
+Received ACK for packet with sequence number: 10
+Received ACK for packet with sequence number: 11
+Received ACK for packet with sequence number: 12
+Received ACK for packet with sequence number: 13
+Timeout occurred
+Retransmitting packet with sequence number: 9
+Received ACK for packet with sequence number: 9
+Sent packet with sequence number: 14
+Sent packet with sequence number: 15
+Sent packet with sequence number: 16
+Sent packet with sequence number: 17
+Sent packet with sequence number: 18
+Received ACK for packet with sequence number: 14
+Sent packet with sequence number: 19
+Received ACK for packet with sequence number: 15
+Sent packet with sequence number: 20
+Received ACK for packet with sequence number: 16
+Sent packet with sequence number: 21
+Received ACK for packet with sequence number: 17
+Sent packet with sequence number: 22
+Received ACK for packet with sequence number: 19
+Received ACK for packet with sequence number: 20
+Received ACK for packet with sequence number: 21
+Received ACK for packet with sequence number: 22
+Timeout occurred
+Retransmitting packet with sequence number: 18
+Received ACK for packet with sequence number: 18
+Sent packet with sequence number: 23
+Sent packet with sequence number: 24
+Sent packet with sequence number: 25
+Sent packet with sequence number: 26
+Sent packet with sequence number: 27
+Received ACK for packet with sequence number: 23
+Sent packet with sequence number: 28
+Received ACK for packet with sequence number: 25
+Received ACK for packet with sequence number: 26
+Received ACK for packet with sequence number: 27
+Received ACK for packet with sequence number: 28
+Timeout occurred
+Retransmitting packet with sequence number: 24
+Received ACK for packet with sequence number: 24
+Sent packet with sequence number: 29
+Sent packet with sequence number: 30
+Sent packet with sequence number: 31
+Sent packet with sequence number: 32
+Sent packet with sequence number: 33
+Received ACK for packet with sequence number: 29
+Sent packet with sequence number: 34
+Received ACK for packet with sequence number: 30
+Sent packet with sequence number: 35
+Received ACK for packet with sequence number: 31
+Sent packet with sequence number: 36
+Received ACK for packet with sequence number: 32
+Sent packet with sequence number: 37
+Received ACK for packet with sequence number: 33
+Sent packet with sequence number: 38
+Received ACK for packet with sequence number: 34
+Sent packet with sequence number: 39
+Received ACK for packet with sequence number: 35
+Sent packet with sequence number: 40
+Received ACK for packet with sequence number: 36
+Sent packet with sequence number: 41
+Received ACK for packet with sequence number: 37
+Sent packet with sequence number: 42
+Received ACK for packet with sequence number: 40
+Received ACK for packet with sequence number: 42
+Timeout occurred
+Retransmitting packet with sequence number: 38
+Retransmitting packet with sequence number: 39
+Retransmitting packet with sequence number: 41
+Received ACK for packet with sequence number: 38
+Sent packet with sequence number: 43
+Received ACK for packet with sequence number: 39
+Sent packet with sequence number: 44
+Sent packet with sequence number: 45
+Received ACK for packet with sequence number: 41
+Sent packet with sequence number: 46
+Sent packet with sequence number: 47
+Received ACK for packet with sequence number: 44
+Received ACK for packet with sequence number: 46
+Received ACK for packet with sequence number: 47
+Timeout occurred
+Retransmitting packet with sequence number: 43
+Retransmitting packet with sequence number: 45
+Received ACK for packet with sequence number: 45
+Timeout occurred
+Retransmitting packet with sequence number: 43
+Received ACK for packet with sequence number: 43
+Sent packet with sequence number: 48
+Sent packet with sequence number: 49
+Sent packet with sequence number: 50
+Sent packet with sequence number: 51
+Sent packet with sequence number: 52
+Received ACK for packet with sequence number: 48
+Sent packet with sequence number: 53
+Received ACK for packet with sequence number: 49
+Sent packet with sequence number: 54
+Received ACK for packet with sequence number: 50
+Sent packet with sequence number: 55
+Received ACK for packet with sequence number: 51
+Sent packet with sequence number: 56
+Received ACK for packet with sequence number: 52
+Sent packet with sequence number: 57
+Received ACK for packet with sequence number: 53
+Sent packet with sequence number: 58
+Received ACK for packet with sequence number: 54
+Sent packet with sequence number: 59
+Received ACK for packet with sequence number: 55
+Sent packet with sequence number: 60
+Received ACK for packet with sequence number: 56
+Sent packet with sequence number: 61
+Received ACK for packet with sequence number: 57
+Sent packet with sequence number: 62
+Received ACK for packet with sequence number: 58
+Sent packet with sequence number: 63
+Received ACK for packet with sequence number: 59
+Sent packet with sequence number: 64
+Received ACK for packet with sequence number: 60
+Sent packet with sequence number: 65
+Received ACK for packet with sequence number: 61
+Sent packet with sequence number: 66
+Received ACK for packet with sequence number: 62
+Sent packet with sequence number: 67
+Received ACK for packet with sequence number: 63
+Sent packet with sequence number: 68
+Received ACK for packet with sequence number: 64
+Sent packet with sequence number: 69
+Received ACK for packet with sequence number: 65
+Sent packet with sequence number: 70
+Received ACK for packet with sequence number: 66
+Sent packet with sequence number: 71
+Received ACK for packet with sequence number: 68
+Received ACK for packet with sequence number: 71
+Timeout occurred
+Retransmitting packet with sequence number: 67
+Retransmitting packet with sequence number: 69
+Retransmitting packet with sequence number: 70
+Received ACK for packet with sequence number: 67
+Sent packet with sequence number: 72
+Sent packet with sequence number: 73
+Received ACK for packet with sequence number: 69
+Sent packet with sequence number: 74
+Received ACK for packet with sequence number: 70
+Sent packet with sequence number: 75
+Sent packet with sequence number: 76
+Received ACK for packet with sequence number: 72
+Sent packet with sequence number: 77
+Received ACK for packet with sequence number: 73
+Sent packet with sequence number: 78
+Received ACK for packet with sequence number: 74
+Sent packet with sequence number: 79
+Received ACK for packet with sequence number: 76
+Received ACK for packet with sequence number: 77
+Received ACK for packet with sequence number: 78
+Timeout occurred
+Retransmitting packet with sequence number: 75
+Retransmitting packet with sequence number: 79
+Received ACK for packet with sequence number: 75
+Sent packet with sequence number: 80
+Sent packet with sequence number: 81
+Sent packet with sequence number: 82
+Sent packet with sequence number: 83
+Received ACK for packet with sequence number: 79
+Sent packet with sequence number: 84
+Received ACK for packet with sequence number: 80
+Sent packet with sequence number: 85
+Received ACK for packet with sequence number: 81
+Sent packet with sequence number: 86
+Received ACK for packet with sequence number: 82
+Sent packet with sequence number: 87
+Received ACK for packet with sequence number: 83
+Sent packet with sequence number: 88
+Received ACK for packet with sequence number: 84
+Sent packet with sequence number: 89
+Received ACK for packet with sequence number: 85
+Sent packet with sequence number: 90
+Received ACK for packet with sequence number: 86
+Sent packet with sequence number: 91
+Received ACK for packet with sequence number: 87
+Sent packet with sequence number: 92
+Received ACK for packet with sequence number: 89
+Received ACK for packet with sequence number: 90
+Received ACK for packet with sequence number: 91
+Received ACK for packet with sequence number: 92
+Timeout occurred
+Retransmitting packet with sequence number: 88
+Received ACK for packet with sequence number: 88
+Sent packet with sequence number: 93
+Sent packet with sequence number: 94
+Sent packet with sequence number: 95
+Sent packet with sequence number: 96
+Sent packet with sequence number: 97
+Received ACK for packet with sequence number: 93
+Sent packet with sequence number: 98
+Received ACK for packet with sequence number: 94
+Received ACK for packet with sequence number: 95
+Received ACK for packet with sequence number: 98
+Timeout occurred
+Retransmitting packet with sequence number: 96
+Retransmitting packet with sequence number: 97
+Received ACK for packet with sequence number: 96
+Received ACK for packet with sequence number: 97
+All packets sent and acknowledged, sent the packet with the FIN flag
+total time transferred 6.164658069610596
+total bits transferred 1143096
+Throughput: 0.19 Mbps
+sr
+Client: Sending FIN
+Client: Received ACK for FIN

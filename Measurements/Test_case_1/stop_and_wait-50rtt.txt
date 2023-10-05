@@ -1,0 +1,1642 @@
+Client: Connection established with server
+start stop
+408 packet size
+seq 1
+lager packet  1
+sender packet nr 1
+ack received for packet 1
+seq 2
+lager packet  2
+sender packet nr 2
+ack received for packet 2
+seq 3
+lager packet  3
+sender packet nr 3
+ack received for packet 3
+seq 4
+lager packet  4
+sender packet nr 4
+ack received for packet 4
+seq 5
+lager packet  5
+sender packet nr 5
+ack received for packet 5
+seq 6
+lager packet  6
+sender packet nr 6
+ack received for packet 6
+seq 7
+lager packet  7
+sender packet nr 7
+ack received for packet 7
+seq 8
+lager packet  8
+sender packet nr 8
+ack received for packet 8
+seq 9
+lager packet  9
+sender packet nr 9
+ack received for packet 9
+seq 10
+lager packet  10
+sender packet nr 10
+ack received for packet 10
+seq 11
+lager packet  11
+sender packet nr 11
+ack received for packet 11
+seq 12
+lager packet  12
+sender packet nr 12
+ack received for packet 12
+seq 13
+lager packet  13
+sender packet nr 13
+ack received for packet 13
+seq 14
+lager packet  14
+sender packet nr 14
+ack received for packet 14
+seq 15
+lager packet  15
+sender packet nr 15
+ack received for packet 15
+seq 16
+lager packet  16
+sender packet nr 16
+ack received for packet 16
+seq 17
+lager packet  17
+sender packet nr 17
+ack received for packet 17
+seq 18
+lager packet  18
+sender packet nr 18
+ack received for packet 18
+seq 19
+lager packet  19
+sender packet nr 19
+ack received for packet 19
+seq 20
+lager packet  20
+sender packet nr 20
+ack received for packet 20
+seq 21
+lager packet  21
+sender packet nr 21
+ack received for packet 21
+seq 22
+lager packet  22
+sender packet nr 22
+ack received for packet 22
+seq 23
+lager packet  23
+sender packet nr 23
+ack received for packet 23
+seq 24
+lager packet  24
+sender packet nr 24
+ack received for packet 24
+seq 25
+lager packet  25
+sender packet nr 25
+ack received for packet 25
+seq 26
+lager packet  26
+sender packet nr 26
+ack received for packet 26
+seq 27
+lager packet  27
+sender packet nr 27
+ack received for packet 27
+seq 28
+lager packet  28
+sender packet nr 28
+ack received for packet 28
+seq 29
+lager packet  29
+sender packet nr 29
+ack received for packet 29
+seq 30
+lager packet  30
+sender packet nr 30
+ack received for packet 30
+seq 31
+lager packet  31
+sender packet nr 31
+ack received for packet 31
+seq 32
+lager packet  32
+sender packet nr 32
+ack received for packet 32
+seq 33
+lager packet  33
+sender packet nr 33
+ack received for packet 33
+seq 34
+lager packet  34
+sender packet nr 34
+ack received for packet 34
+seq 35
+lager packet  35
+sender packet nr 35
+ack received for packet 35
+seq 36
+lager packet  36
+sender packet nr 36
+ack received for packet 36
+seq 37
+lager packet  37
+sender packet nr 37
+ack received for packet 37
+seq 38
+lager packet  38
+sender packet nr 38
+ack received for packet 38
+seq 39
+lager packet  39
+sender packet nr 39
+ack received for packet 39
+seq 40
+lager packet  40
+sender packet nr 40
+ack received for packet 40
+seq 41
+lager packet  41
+sender packet nr 41
+ack received for packet 41
+seq 42
+lager packet  42
+sender packet nr 42
+ack received for packet 42
+seq 43
+lager packet  43
+sender packet nr 43
+ack received for packet 43
+seq 44
+lager packet  44
+sender packet nr 44
+ack received for packet 44
+seq 45
+lager packet  45
+sender packet nr 45
+ack received for packet 45
+seq 46
+lager packet  46
+sender packet nr 46
+ack received for packet 46
+seq 47
+lager packet  47
+sender packet nr 47
+ack received for packet 47
+seq 48
+lager packet  48
+sender packet nr 48
+ack received for packet 48
+seq 49
+lager packet  49
+sender packet nr 49
+ack received for packet 49
+seq 50
+lager packet  50
+sender packet nr 50
+ack received for packet 50
+seq 51
+lager packet  51
+sender packet nr 51
+ack received for packet 51
+seq 52
+lager packet  52
+sender packet nr 52
+ack received for packet 52
+seq 53
+lager packet  53
+sender packet nr 53
+ack received for packet 53
+seq 54
+lager packet  54
+sender packet nr 54
+ack received for packet 54
+seq 55
+lager packet  55
+sender packet nr 55
+ack received for packet 55
+seq 56
+lager packet  56
+sender packet nr 56
+ack received for packet 56
+seq 57
+lager packet  57
+sender packet nr 57
+ack received for packet 57
+seq 58
+lager packet  58
+sender packet nr 58
+ack received for packet 58
+seq 59
+lager packet  59
+sender packet nr 59
+ack received for packet 59
+seq 60
+lager packet  60
+sender packet nr 60
+ack received for packet 60
+seq 61
+lager packet  61
+sender packet nr 61
+ack received for packet 61
+seq 62
+lager packet  62
+sender packet nr 62
+ack received for packet 62
+seq 63
+lager packet  63
+sender packet nr 63
+ack received for packet 63
+seq 64
+lager packet  64
+sender packet nr 64
+ack received for packet 64
+seq 65
+lager packet  65
+sender packet nr 65
+ack received for packet 65
+seq 66
+lager packet  66
+sender packet nr 66
+ack received for packet 66
+seq 67
+lager packet  67
+sender packet nr 67
+ack received for packet 67
+seq 68
+lager packet  68
+sender packet nr 68
+ack received for packet 68
+seq 69
+lager packet  69
+sender packet nr 69
+ack received for packet 69
+seq 70
+lager packet  70
+sender packet nr 70
+ack received for packet 70
+seq 71
+lager packet  71
+sender packet nr 71
+ack received for packet 71
+seq 72
+lager packet  72
+sender packet nr 72
+ack received for packet 72
+seq 73
+lager packet  73
+sender packet nr 73
+ack received for packet 73
+seq 74
+lager packet  74
+sender packet nr 74
+ack received for packet 74
+seq 75
+lager packet  75
+sender packet nr 75
+ack received for packet 75
+seq 76
+lager packet  76
+sender packet nr 76
+ack received for packet 76
+seq 77
+lager packet  77
+sender packet nr 77
+ack received for packet 77
+seq 78
+lager packet  78
+sender packet nr 78
+ack received for packet 78
+seq 79
+lager packet  79
+sender packet nr 79
+ack received for packet 79
+seq 80
+lager packet  80
+sender packet nr 80
+ack received for packet 80
+seq 81
+lager packet  81
+sender packet nr 81
+ack received for packet 81
+seq 82
+lager packet  82
+sender packet nr 82
+ack received for packet 82
+seq 83
+lager packet  83
+sender packet nr 83
+ack received for packet 83
+seq 84
+lager packet  84
+sender packet nr 84
+ack received for packet 84
+seq 85
+lager packet  85
+sender packet nr 85
+ack received for packet 85
+seq 86
+lager packet  86
+sender packet nr 86
+ack received for packet 86
+seq 87
+lager packet  87
+sender packet nr 87
+ack received for packet 87
+seq 88
+lager packet  88
+sender packet nr 88
+ack received for packet 88
+seq 89
+lager packet  89
+sender packet nr 89
+ack received for packet 89
+seq 90
+lager packet  90
+sender packet nr 90
+ack received for packet 90
+seq 91
+lager packet  91
+sender packet nr 91
+ack received for packet 91
+seq 92
+lager packet  92
+sender packet nr 92
+ack received for packet 92
+seq 93
+lager packet  93
+sender packet nr 93
+ack received for packet 93
+seq 94
+lager packet  94
+sender packet nr 94
+ack received for packet 94
+seq 95
+lager packet  95
+sender packet nr 95
+ack received for packet 95
+seq 96
+lager packet  96
+sender packet nr 96
+ack received for packet 96
+seq 97
+lager packet  97
+sender packet nr 97
+ack received for packet 97
+seq 98
+lager packet  98
+sender packet nr 98
+ack received for packet 98
+seq 99
+lager packet  99
+sender packet nr 99
+ack received for packet 99
+seq 100
+lager packet  100
+sender packet nr 100
+ack received for packet 100
+seq 101
+lager packet  101
+sender packet nr 101
+ack received for packet 101
+seq 102
+lager packet  102
+sender packet nr 102
+ack received for packet 102
+seq 103
+lager packet  103
+sender packet nr 103
+ack received for packet 103
+seq 104
+lager packet  104
+sender packet nr 104
+ack received for packet 104
+seq 105
+lager packet  105
+sender packet nr 105
+ack received for packet 105
+seq 106
+lager packet  106
+sender packet nr 106
+ack received for packet 106
+seq 107
+lager packet  107
+sender packet nr 107
+ack received for packet 107
+seq 108
+lager packet  108
+sender packet nr 108
+ack received for packet 108
+seq 109
+lager packet  109
+sender packet nr 109
+ack received for packet 109
+seq 110
+lager packet  110
+sender packet nr 110
+ack received for packet 110
+seq 111
+lager packet  111
+sender packet nr 111
+ack received for packet 111
+seq 112
+lager packet  112
+sender packet nr 112
+ack received for packet 112
+seq 113
+lager packet  113
+sender packet nr 113
+ack received for packet 113
+seq 114
+lager packet  114
+sender packet nr 114
+ack received for packet 114
+seq 115
+lager packet  115
+sender packet nr 115
+ack received for packet 115
+seq 116
+lager packet  116
+sender packet nr 116
+ack received for packet 116
+seq 117
+lager packet  117
+sender packet nr 117
+ack received for packet 117
+seq 118
+lager packet  118
+sender packet nr 118
+ack received for packet 118
+seq 119
+lager packet  119
+sender packet nr 119
+ack received for packet 119
+seq 120
+lager packet  120
+sender packet nr 120
+ack received for packet 120
+seq 121
+lager packet  121
+sender packet nr 121
+ack received for packet 121
+seq 122
+lager packet  122
+sender packet nr 122
+ack received for packet 122
+seq 123
+lager packet  123
+sender packet nr 123
+ack received for packet 123
+seq 124
+lager packet  124
+sender packet nr 124
+ack received for packet 124
+seq 125
+lager packet  125
+sender packet nr 125
+ack received for packet 125
+seq 126
+lager packet  126
+sender packet nr 126
+ack received for packet 126
+seq 127
+lager packet  127
+sender packet nr 127
+ack received for packet 127
+seq 128
+lager packet  128
+sender packet nr 128
+ack received for packet 128
+seq 129
+lager packet  129
+sender packet nr 129
+ack received for packet 129
+seq 130
+lager packet  130
+sender packet nr 130
+ack received for packet 130
+seq 131
+lager packet  131
+sender packet nr 131
+ack received for packet 131
+seq 132
+lager packet  132
+sender packet nr 132
+ack received for packet 132
+seq 133
+lager packet  133
+sender packet nr 133
+ack received for packet 133
+seq 134
+lager packet  134
+sender packet nr 134
+ack received for packet 134
+seq 135
+lager packet  135
+sender packet nr 135
+ack received for packet 135
+seq 136
+lager packet  136
+sender packet nr 136
+ack received for packet 136
+seq 137
+lager packet  137
+sender packet nr 137
+ack received for packet 137
+seq 138
+lager packet  138
+sender packet nr 138
+ack received for packet 138
+seq 139
+lager packet  139
+sender packet nr 139
+ack received for packet 139
+seq 140
+lager packet  140
+sender packet nr 140
+ack received for packet 140
+seq 141
+lager packet  141
+sender packet nr 141
+ack received for packet 141
+seq 142
+lager packet  142
+sender packet nr 142
+ack received for packet 142
+seq 143
+lager packet  143
+sender packet nr 143
+ack received for packet 143
+seq 144
+lager packet  144
+sender packet nr 144
+ack received for packet 144
+seq 145
+lager packet  145
+sender packet nr 145
+ack received for packet 145
+seq 146
+lager packet  146
+sender packet nr 146
+ack received for packet 146
+seq 147
+lager packet  147
+sender packet nr 147
+ack received for packet 147
+seq 148
+lager packet  148
+sender packet nr 148
+ack received for packet 148
+seq 149
+lager packet  149
+sender packet nr 149
+ack received for packet 149
+seq 150
+lager packet  150
+sender packet nr 150
+ack received for packet 150
+seq 151
+lager packet  151
+sender packet nr 151
+ack received for packet 151
+seq 152
+lager packet  152
+sender packet nr 152
+ack received for packet 152
+seq 153
+lager packet  153
+sender packet nr 153
+ack received for packet 153
+seq 154
+lager packet  154
+sender packet nr 154
+ack received for packet 154
+seq 155
+lager packet  155
+sender packet nr 155
+ack received for packet 155
+seq 156
+lager packet  156
+sender packet nr 156
+ack received for packet 156
+seq 157
+lager packet  157
+sender packet nr 157
+ack received for packet 157
+seq 158
+lager packet  158
+sender packet nr 158
+ack received for packet 158
+seq 159
+lager packet  159
+sender packet nr 159
+ack received for packet 159
+seq 160
+lager packet  160
+sender packet nr 160
+ack received for packet 160
+seq 161
+lager packet  161
+sender packet nr 161
+ack received for packet 161
+seq 162
+lager packet  162
+sender packet nr 162
+ack received for packet 162
+seq 163
+lager packet  163
+sender packet nr 163
+ack received for packet 163
+seq 164
+lager packet  164
+sender packet nr 164
+ack received for packet 164
+seq 165
+lager packet  165
+sender packet nr 165
+ack received for packet 165
+seq 166
+lager packet  166
+sender packet nr 166
+ack received for packet 166
+seq 167
+lager packet  167
+sender packet nr 167
+ack received for packet 167
+seq 168
+lager packet  168
+sender packet nr 168
+ack received for packet 168
+seq 169
+lager packet  169
+sender packet nr 169
+ack received for packet 169
+seq 170
+lager packet  170
+sender packet nr 170
+ack received for packet 170
+seq 171
+lager packet  171
+sender packet nr 171
+ack received for packet 171
+seq 172
+lager packet  172
+sender packet nr 172
+ack received for packet 172
+seq 173
+lager packet  173
+sender packet nr 173
+ack received for packet 173
+seq 174
+lager packet  174
+sender packet nr 174
+ack received for packet 174
+seq 175
+lager packet  175
+sender packet nr 175
+ack received for packet 175
+seq 176
+lager packet  176
+sender packet nr 176
+ack received for packet 176
+seq 177
+lager packet  177
+sender packet nr 177
+ack received for packet 177
+seq 178
+lager packet  178
+sender packet nr 178
+ack received for packet 178
+seq 179
+lager packet  179
+sender packet nr 179
+ack received for packet 179
+seq 180
+lager packet  180
+sender packet nr 180
+ack received for packet 180
+seq 181
+lager packet  181
+sender packet nr 181
+ack received for packet 181
+seq 182
+lager packet  182
+sender packet nr 182
+ack received for packet 182
+seq 183
+lager packet  183
+sender packet nr 183
+ack received for packet 183
+seq 184
+lager packet  184
+sender packet nr 184
+ack received for packet 184
+seq 185
+lager packet  185
+sender packet nr 185
+ack received for packet 185
+seq 186
+lager packet  186
+sender packet nr 186
+ack received for packet 186
+seq 187
+lager packet  187
+sender packet nr 187
+ack received for packet 187
+seq 188
+lager packet  188
+sender packet nr 188
+ack received for packet 188
+seq 189
+lager packet  189
+sender packet nr 189
+ack received for packet 189
+seq 190
+lager packet  190
+sender packet nr 190
+ack received for packet 190
+seq 191
+lager packet  191
+sender packet nr 191
+ack received for packet 191
+seq 192
+lager packet  192
+sender packet nr 192
+ack received for packet 192
+seq 193
+lager packet  193
+sender packet nr 193
+ack received for packet 193
+seq 194
+lager packet  194
+sender packet nr 194
+ack received for packet 194
+seq 195
+lager packet  195
+sender packet nr 195
+ack received for packet 195
+seq 196
+lager packet  196
+sender packet nr 196
+ack received for packet 196
+seq 197
+lager packet  197
+sender packet nr 197
+ack received for packet 197
+seq 198
+lager packet  198
+sender packet nr 198
+ack received for packet 198
+seq 199
+lager packet  199
+sender packet nr 199
+ack received for packet 199
+seq 200
+lager packet  200
+sender packet nr 200
+ack received for packet 200
+seq 201
+lager packet  201
+sender packet nr 201
+ack received for packet 201
+seq 202
+lager packet  202
+sender packet nr 202
+ack received for packet 202
+seq 203
+lager packet  203
+sender packet nr 203
+ack received for packet 203
+seq 204
+lager packet  204
+sender packet nr 204
+ack received for packet 204
+seq 205
+lager packet  205
+sender packet nr 205
+ack received for packet 205
+seq 206
+lager packet  206
+sender packet nr 206
+ack received for packet 206
+seq 207
+lager packet  207
+sender packet nr 207
+ack received for packet 207
+seq 208
+lager packet  208
+sender packet nr 208
+ack received for packet 208
+seq 209
+lager packet  209
+sender packet nr 209
+ack received for packet 209
+seq 210
+lager packet  210
+sender packet nr 210
+ack received for packet 210
+seq 211
+lager packet  211
+sender packet nr 211
+ack received for packet 211
+seq 212
+lager packet  212
+sender packet nr 212
+ack received for packet 212
+seq 213
+lager packet  213
+sender packet nr 213
+ack received for packet 213
+seq 214
+lager packet  214
+sender packet nr 214
+ack received for packet 214
+seq 215
+lager packet  215
+sender packet nr 215
+ack received for packet 215
+seq 216
+lager packet  216
+sender packet nr 216
+ack received for packet 216
+seq 217
+lager packet  217
+sender packet nr 217
+ack received for packet 217
+seq 218
+lager packet  218
+sender packet nr 218
+ack received for packet 218
+seq 219
+lager packet  219
+sender packet nr 219
+ack received for packet 219
+seq 220
+lager packet  220
+sender packet nr 220
+ack received for packet 220
+seq 221
+lager packet  221
+sender packet nr 221
+ack received for packet 221
+seq 222
+lager packet  222
+sender packet nr 222
+ack received for packet 222
+seq 223
+lager packet  223
+sender packet nr 223
+ack received for packet 223
+seq 224
+lager packet  224
+sender packet nr 224
+ack received for packet 224
+seq 225
+lager packet  225
+sender packet nr 225
+ack received for packet 225
+seq 226
+lager packet  226
+sender packet nr 226
+ack received for packet 226
+seq 227
+lager packet  227
+sender packet nr 227
+ack received for packet 227
+seq 228
+lager packet  228
+sender packet nr 228
+ack received for packet 228
+seq 229
+lager packet  229
+sender packet nr 229
+ack received for packet 229
+seq 230
+lager packet  230
+sender packet nr 230
+ack received for packet 230
+seq 231
+lager packet  231
+sender packet nr 231
+ack received for packet 231
+seq 232
+lager packet  232
+sender packet nr 232
+ack received for packet 232
+seq 233
+lager packet  233
+sender packet nr 233
+ack received for packet 233
+seq 234
+lager packet  234
+sender packet nr 234
+ack received for packet 234
+seq 235
+lager packet  235
+sender packet nr 235
+ack received for packet 235
+seq 236
+lager packet  236
+sender packet nr 236
+ack received for packet 236
+seq 237
+lager packet  237
+sender packet nr 237
+ack received for packet 237
+seq 238
+lager packet  238
+sender packet nr 238
+ack received for packet 238
+seq 239
+lager packet  239
+sender packet nr 239
+ack received for packet 239
+seq 240
+lager packet  240
+sender packet nr 240
+ack received for packet 240
+seq 241
+lager packet  241
+sender packet nr 241
+ack received for packet 241
+seq 242
+lager packet  242
+sender packet nr 242
+ack received for packet 242
+seq 243
+lager packet  243
+sender packet nr 243
+ack received for packet 243
+seq 244
+lager packet  244
+sender packet nr 244
+ack received for packet 244
+seq 245
+lager packet  245
+sender packet nr 245
+ack received for packet 245
+seq 246
+lager packet  246
+sender packet nr 246
+ack received for packet 246
+seq 247
+lager packet  247
+sender packet nr 247
+ack received for packet 247
+seq 248
+lager packet  248
+sender packet nr 248
+ack received for packet 248
+seq 249
+lager packet  249
+sender packet nr 249
+ack received for packet 249
+seq 250
+lager packet  250
+sender packet nr 250
+ack received for packet 250
+seq 251
+lager packet  251
+sender packet nr 251
+ack received for packet 251
+seq 252
+lager packet  252
+sender packet nr 252
+ack received for packet 252
+seq 253
+lager packet  253
+sender packet nr 253
+ack received for packet 253
+seq 254
+lager packet  254
+sender packet nr 254
+ack received for packet 254
+seq 255
+lager packet  255
+sender packet nr 255
+ack received for packet 255
+seq 256
+lager packet  256
+sender packet nr 256
+ack received for packet 256
+seq 257
+lager packet  257
+sender packet nr 257
+ack received for packet 257
+seq 258
+lager packet  258
+sender packet nr 258
+ack received for packet 258
+seq 259
+lager packet  259
+sender packet nr 259
+ack received for packet 259
+seq 260
+lager packet  260
+sender packet nr 260
+ack received for packet 260
+seq 261
+lager packet  261
+sender packet nr 261
+ack received for packet 261
+seq 262
+lager packet  262
+sender packet nr 262
+ack received for packet 262
+seq 263
+lager packet  263
+sender packet nr 263
+ack received for packet 263
+seq 264
+lager packet  264
+sender packet nr 264
+ack received for packet 264
+seq 265
+lager packet  265
+sender packet nr 265
+ack received for packet 265
+seq 266
+lager packet  266
+sender packet nr 266
+ack received for packet 266
+seq 267
+lager packet  267
+sender packet nr 267
+ack received for packet 267
+seq 268
+lager packet  268
+sender packet nr 268
+ack received for packet 268
+seq 269
+lager packet  269
+sender packet nr 269
+ack received for packet 269
+seq 270
+lager packet  270
+sender packet nr 270
+ack received for packet 270
+seq 271
+lager packet  271
+sender packet nr 271
+ack received for packet 271
+seq 272
+lager packet  272
+sender packet nr 272
+ack received for packet 272
+seq 273
+lager packet  273
+sender packet nr 273
+ack received for packet 273
+seq 274
+lager packet  274
+sender packet nr 274
+ack received for packet 274
+seq 275
+lager packet  275
+sender packet nr 275
+ack received for packet 275
+seq 276
+lager packet  276
+sender packet nr 276
+ack received for packet 276
+seq 277
+lager packet  277
+sender packet nr 277
+ack received for packet 277
+seq 278
+lager packet  278
+sender packet nr 278
+ack received for packet 278
+seq 279
+lager packet  279
+sender packet nr 279
+ack received for packet 279
+seq 280
+lager packet  280
+sender packet nr 280
+ack received for packet 280
+seq 281
+lager packet  281
+sender packet nr 281
+ack received for packet 281
+seq 282
+lager packet  282
+sender packet nr 282
+ack received for packet 282
+seq 283
+lager packet  283
+sender packet nr 283
+ack received for packet 283
+seq 284
+lager packet  284
+sender packet nr 284
+ack received for packet 284
+seq 285
+lager packet  285
+sender packet nr 285
+ack received for packet 285
+seq 286
+lager packet  286
+sender packet nr 286
+ack received for packet 286
+seq 287
+lager packet  287
+sender packet nr 287
+ack received for packet 287
+seq 288
+lager packet  288
+sender packet nr 288
+ack received for packet 288
+seq 289
+lager packet  289
+sender packet nr 289
+ack received for packet 289
+seq 290
+lager packet  290
+sender packet nr 290
+ack received for packet 290
+seq 291
+lager packet  291
+sender packet nr 291
+ack received for packet 291
+seq 292
+lager packet  292
+sender packet nr 292
+ack received for packet 292
+seq 293
+lager packet  293
+sender packet nr 293
+ack received for packet 293
+seq 294
+lager packet  294
+sender packet nr 294
+ack received for packet 294
+seq 295
+lager packet  295
+sender packet nr 295
+ack received for packet 295
+seq 296
+lager packet  296
+sender packet nr 296
+ack received for packet 296
+seq 297
+lager packet  297
+sender packet nr 297
+ack received for packet 297
+seq 298
+lager packet  298
+sender packet nr 298
+ack received for packet 298
+seq 299
+lager packet  299
+sender packet nr 299
+ack received for packet 299
+seq 300
+lager packet  300
+sender packet nr 300
+ack received for packet 300
+seq 301
+lager packet  301
+sender packet nr 301
+ack received for packet 301
+seq 302
+lager packet  302
+sender packet nr 302
+ack received for packet 302
+seq 303
+lager packet  303
+sender packet nr 303
+ack received for packet 303
+seq 304
+lager packet  304
+sender packet nr 304
+ack received for packet 304
+seq 305
+lager packet  305
+sender packet nr 305
+ack received for packet 305
+seq 306
+lager packet  306
+sender packet nr 306
+ack received for packet 306
+seq 307
+lager packet  307
+sender packet nr 307
+ack received for packet 307
+seq 308
+lager packet  308
+sender packet nr 308
+ack received for packet 308
+seq 309
+lager packet  309
+sender packet nr 309
+ack received for packet 309
+seq 310
+lager packet  310
+sender packet nr 310
+ack received for packet 310
+seq 311
+lager packet  311
+sender packet nr 311
+ack received for packet 311
+seq 312
+lager packet  312
+sender packet nr 312
+ack received for packet 312
+seq 313
+lager packet  313
+sender packet nr 313
+ack received for packet 313
+seq 314
+lager packet  314
+sender packet nr 314
+ack received for packet 314
+seq 315
+lager packet  315
+sender packet nr 315
+ack received for packet 315
+seq 316
+lager packet  316
+sender packet nr 316
+ack received for packet 316
+seq 317
+lager packet  317
+sender packet nr 317
+ack received for packet 317
+seq 318
+lager packet  318
+sender packet nr 318
+ack received for packet 318
+seq 319
+lager packet  319
+sender packet nr 319
+ack received for packet 319
+seq 320
+lager packet  320
+sender packet nr 320
+ack received for packet 320
+seq 321
+lager packet  321
+sender packet nr 321
+ack received for packet 321
+seq 322
+lager packet  322
+sender packet nr 322
+ack received for packet 322
+seq 323
+lager packet  323
+sender packet nr 323
+ack received for packet 323
+seq 324
+lager packet  324
+sender packet nr 324
+ack received for packet 324
+seq 325
+lager packet  325
+sender packet nr 325
+ack received for packet 325
+seq 326
+lager packet  326
+sender packet nr 326
+ack received for packet 326
+seq 327
+lager packet  327
+sender packet nr 327
+ack received for packet 327
+seq 328
+lager packet  328
+sender packet nr 328
+ack received for packet 328
+seq 329
+lager packet  329
+sender packet nr 329
+ack received for packet 329
+seq 330
+lager packet  330
+sender packet nr 330
+ack received for packet 330
+seq 331
+lager packet  331
+sender packet nr 331
+ack received for packet 331
+seq 332
+lager packet  332
+sender packet nr 332
+ack received for packet 332
+seq 333
+lager packet  333
+sender packet nr 333
+ack received for packet 333
+seq 334
+lager packet  334
+sender packet nr 334
+ack received for packet 334
+seq 335
+lager packet  335
+sender packet nr 335
+ack received for packet 335
+seq 336
+lager packet  336
+sender packet nr 336
+ack received for packet 336
+seq 337
+lager packet  337
+sender packet nr 337
+ack received for packet 337
+seq 338
+lager packet  338
+sender packet nr 338
+ack received for packet 338
+seq 339
+lager packet  339
+sender packet nr 339
+ack received for packet 339
+seq 340
+lager packet  340
+sender packet nr 340
+ack received for packet 340
+seq 341
+lager packet  341
+sender packet nr 341
+ack received for packet 341
+seq 342
+lager packet  342
+sender packet nr 342
+ack received for packet 342
+seq 343
+lager packet  343
+sender packet nr 343
+ack received for packet 343
+seq 344
+lager packet  344
+sender packet nr 344
+ack received for packet 344
+seq 345
+lager packet  345
+sender packet nr 345
+ack received for packet 345
+seq 346
+lager packet  346
+sender packet nr 346
+ack received for packet 346
+seq 347
+lager packet  347
+sender packet nr 347
+ack received for packet 347
+seq 348
+lager packet  348
+sender packet nr 348
+ack received for packet 348
+seq 349
+lager packet  349
+sender packet nr 349
+ack received for packet 349
+seq 350
+lager packet  350
+sender packet nr 350
+ack received for packet 350
+seq 351
+lager packet  351
+sender packet nr 351
+ack received for packet 351
+seq 352
+lager packet  352
+sender packet nr 352
+ack received for packet 352
+seq 353
+lager packet  353
+sender packet nr 353
+ack received for packet 353
+seq 354
+lager packet  354
+sender packet nr 354
+ack received for packet 354
+seq 355
+lager packet  355
+sender packet nr 355
+ack received for packet 355
+seq 356
+lager packet  356
+sender packet nr 356
+ack received for packet 356
+seq 357
+lager packet  357
+sender packet nr 357
+ack received for packet 357
+seq 358
+lager packet  358
+sender packet nr 358
+ack received for packet 358
+seq 359
+lager packet  359
+sender packet nr 359
+ack received for packet 359
+seq 360
+lager packet  360
+sender packet nr 360
+ack received for packet 360
+seq 361
+lager packet  361
+sender packet nr 361
+ack received for packet 361
+seq 362
+lager packet  362
+sender packet nr 362
+ack received for packet 362
+seq 363
+lager packet  363
+sender packet nr 363
+ack received for packet 363
+seq 364
+lager packet  364
+sender packet nr 364
+ack received for packet 364
+seq 365
+lager packet  365
+sender packet nr 365
+ack received for packet 365
+seq 366
+lager packet  366
+sender packet nr 366
+ack received for packet 366
+seq 367
+lager packet  367
+sender packet nr 367
+ack received for packet 367
+seq 368
+lager packet  368
+sender packet nr 368
+ack received for packet 368
+seq 369
+lager packet  369
+sender packet nr 369
+ack received for packet 369
+seq 370
+lager packet  370
+sender packet nr 370
+ack received for packet 370
+seq 371
+lager packet  371
+sender packet nr 371
+ack received for packet 371
+seq 372
+lager packet  372
+sender packet nr 372
+ack received for packet 372
+seq 373
+lager packet  373
+sender packet nr 373
+ack received for packet 373
+seq 374
+lager packet  374
+sender packet nr 374
+ack received for packet 374
+seq 375
+lager packet  375
+sender packet nr 375
+ack received for packet 375
+seq 376
+lager packet  376
+sender packet nr 376
+ack received for packet 376
+seq 377
+lager packet  377
+sender packet nr 377
+ack received for packet 377
+seq 378
+lager packet  378
+sender packet nr 378
+ack received for packet 378
+seq 379
+lager packet  379
+sender packet nr 379
+ack received for packet 379
+seq 380
+lager packet  380
+sender packet nr 380
+ack received for packet 380
+seq 381
+lager packet  381
+sender packet nr 381
+ack received for packet 381
+seq 382
+lager packet  382
+sender packet nr 382
+ack received for packet 382
+seq 383
+lager packet  383
+sender packet nr 383
+ack received for packet 383
+seq 384
+lager packet  384
+sender packet nr 384
+ack received for packet 384
+seq 385
+lager packet  385
+sender packet nr 385
+ack received for packet 385
+seq 386
+lager packet  386
+sender packet nr 386
+ack received for packet 386
+seq 387
+lager packet  387
+sender packet nr 387
+ack received for packet 387
+seq 388
+lager packet  388
+sender packet nr 388
+ack received for packet 388
+seq 389
+lager packet  389
+sender packet nr 389
+ack received for packet 389
+seq 390
+lager packet  390
+sender packet nr 390
+ack received for packet 390
+seq 391
+lager packet  391
+sender packet nr 391
+ack received for packet 391
+seq 392
+lager packet  392
+sender packet nr 392
+ack received for packet 392
+seq 393
+lager packet  393
+sender packet nr 393
+ack received for packet 393
+seq 394
+lager packet  394
+sender packet nr 394
+ack received for packet 394
+seq 395
+lager packet  395
+sender packet nr 395
+ack received for packet 395
+seq 396
+lager packet  396
+sender packet nr 396
+ack received for packet 396
+seq 397
+lager packet  397
+sender packet nr 397
+ack received for packet 397
+seq 398
+lager packet  398
+sender packet nr 398
+ack received for packet 398
+seq 399
+lager packet  399
+sender packet nr 399
+ack received for packet 399
+seq 400
+lager packet  400
+sender packet nr 400
+ack received for packet 400
+seq 401
+lager packet  401
+sender packet nr 401
+ack received for packet 401
+seq 402
+lager packet  402
+sender packet nr 402
+ack received for packet 402
+seq 403
+lager packet  403
+sender packet nr 403
+ack received for packet 403
+seq 404
+lager packet  404
+sender packet nr 404
+ack received for packet 404
+seq 405
+lager packet  405
+sender packet nr 405
+ack received for packet 405
+seq 406
+lager packet  406
+sender packet nr 406
+ack received for packet 406
+seq 407
+lager packet  407
+sender packet nr 407
+ack received for packet 407
+seq 408
+lager packet siste 408
+sender packet nr 408
+ack received for packet 408
+finish
+total time transferred 21.075657844543457
+total bits transferred 4765416
+Throughput: 0.23 Mbps
+stop_and_wait
+Client: Sending FIN
+Client: Received ACK for FIN
